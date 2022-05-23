@@ -1,4 +1,4 @@
-package aula02;
+package CadastroJogador;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

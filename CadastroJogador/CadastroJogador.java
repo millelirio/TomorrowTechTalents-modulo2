@@ -1,7 +1,6 @@
-package aula02;
+package CadastroJogador;
 
 import java.time.LocalDate;
-import java.time.chrono.ChronoLocalDate;
 
 public class CadastroJogador {
     public static void main (String [] args){
@@ -26,5 +25,7 @@ public class CadastroJogador {
         System.out.println(listaJogadores[i]);
     }
         System.out.println("Depois da lesão o jogador " + listaJogadores[10].nome + " esta com a qualidade de: " + listaJogadores[10].qualidade);
+
 }
+
 }
