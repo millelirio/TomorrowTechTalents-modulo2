@@ -103,7 +103,7 @@ public class Escola {
             }
         }
     }
-}
+
     void adicionarFuncionario(String nome, String CPF, String RG, String cargo, double salario) {
         Funcionario novoFuncionario = new Funcionario(nome, CPF, RG, cargo, salario);
         if(!verificarFuncionario(novoFuncionario)){
